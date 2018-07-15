@@ -38,7 +38,7 @@ class Webgl{
     this.time = new THREE.Clock();
 
     var cameraControl =  new THREE.OrbitControls(this.camera, this.renderer.domElement); 
-    // cameraControl.enableZoom = false;
+    cameraControl.enableZoom = false;
 
 
     this.loading = new Loading(this);
