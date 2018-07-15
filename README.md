@@ -1,5 +1,5 @@
 # Halftone Effect
-* [demo](https://mnmxmx.github.io/halftone/dst/)  
+* [demo](https://mnmxmx.github.io/halftone-effect/dst/)  
   
 [<img src="./screenshot1.png" width="100%">](./screenshot1.png)  
 [<img src="./screenshot2.png" width="100%">](./screenshot2.png)  
